@@ -1,0 +1,17 @@
+# executáveis
+*.out
+*.exe
+main
+
+# arquivos compilados
+*.o
+
+# logs
+*.log
+
+# pastas de build
+bin/
+*/bin/
+
+# lixo do sistema
+.DS_Store
