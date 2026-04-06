@@ -3,6 +3,11 @@
 *.exe
 main
 
+# executaveis e binarios
+*.out
+*.exe
+calc_v3
+
 # arquivos compilados
 *.o
 
