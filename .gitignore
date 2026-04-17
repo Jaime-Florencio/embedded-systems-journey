@@ -1,22 +1,18 @@
 # executáveis
 *.out
 *.exe
-main
 
-# executaveis e binarios
-*.out
-*.exe
-calc_v3
-
-# arquivos compilados
+# arquivos objeto
 *.o
 
 # logs
 *.log
 
-# pastas de build
+# diretórios de build
 bin/
-*/bin/
 
-# lixo do sistema
+# arquivos temporários de editor
+*~
+
+# lixo de sistema
 .DS_Store
