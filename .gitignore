@@ -4,6 +4,7 @@
 
 # arquivos objeto
 *.o
+programa
 
 # logs
 *.log
